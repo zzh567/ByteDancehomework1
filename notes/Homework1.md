@@ -14,7 +14,7 @@ Homework1
 
 ### （2）安卓第一个界面MainActivity
 
-![](./md_res\image-20251122130842699.png)
+![](./md_res/image-20251122130842699.png)
 
 笔记：目前公司中compose并不是主流，依旧java为主，此处使用经典java代码
 
